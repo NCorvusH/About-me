@@ -55,11 +55,17 @@
 ###
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
 </div>
 
 ###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 
