@@ -19,7 +19,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="Blender logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/3dsmax/3dsmax-original.svg" height="30" alt="3DSmax logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threedsmax/threedsmax-original.svg" height="30" alt="3DSmax logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="30" alt="Maya logo"  />
   <img width="12" />
