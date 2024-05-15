@@ -17,7 +17,7 @@
   <img width="12" />
 </div>
 
-<p style="color: red;">My name is Norbert Harrow, also known as Corvus. I am studying for a master´s degree in Game Design and Programming (Unity and Unreal Engine), a Backend (with DevOps) course. I am currently working as an illustrator (Digital Media). I am a resolutive, hard-working person with a keen eye for details.</p>
+<p>My name is Norbert Harrow, also known as Corvus. I am studying for a master´s degree in Game Design and Programming (Unity and Unreal Engine), a Backend (with DevOps) course. I am currently working as an illustrator (Digital Media). I am a resolutive, hard-working person with a keen eye for details.</p>
 <p>I am from the Scottish Highlands, and I am currently living in Huelva (Spain).</p>
 <p>One of my favourite mottos is "I am not phenomenally skilled, but phenomenally willed", and helped me greatly during my darkest times.</p>
 <br>
@@ -39,7 +39,7 @@
 <br clear="both">
 
 ###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
-
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
+</div>
 
