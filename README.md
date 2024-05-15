@@ -10,4 +10,5 @@
 <b>Hobbies:</b> 3D Modelling/Sculpting, Drawing, Writing, Playing piano, 
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JMPolvillo&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JMPolvillo&langs_count=5&theme=tokyonight)]()
