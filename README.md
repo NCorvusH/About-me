@@ -10,4 +10,4 @@
 <b>Hobbies:</b> 3D Modelling/Sculpting, Drawing, Writing, Playing piano, 
 <br>
 <br>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=NCorvusH&count_private=true&theme=tokyonight&showicons=true)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
