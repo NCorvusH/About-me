@@ -44,4 +44,6 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NCorvusH&layout=compact)
 
-
+<a href="https://github.com/NCorvusH/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NCorvusH&theme=dark&show_icons=true" />
+</a>
