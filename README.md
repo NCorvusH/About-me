@@ -19,9 +19,19 @@
   <img width="12" />
 </div>
 
-<p>My name is Norbert Harrow, also known as Corvus. I am studying for a master´s degree in Game Development and Programming (Unity and Unreal Engine), a Backend (with DevOps) course. I am currently working as an illustrator (Digital Media). I am a resolutive, hard-working person with a keen eye for details.</p>
-<p>I am from the Scottish Highlands, and I am currently living in Huelva (Spain).</p>
-<p>One of my favourite mottos is "I am not phenomenally skilled, but phenomenally willed", and helped me greatly during my darkest times.</p>
+<p>Hello, I'm Norbert Harrow, also known as Corvus. I've been working as an artist since 2012, with a deep passion for Concept Art. My expertise lies in Fantasy and Medieval aesthetics, but I'm quick to adapt to new settings and themes. I thrive on brainstorming and generating ideas straight from my imagination, though I always ensure accuracy by referencing when needed.
+<br>
+  <br>
+I am currently in my final year of a Master’s Degree in Game Design and Programming (Unity and Unreal Engine), where I am developing a functional game demo as my final project. My journey into the world of game development has been incredibly rewarding, and I aim to continue expanding my skills in 3D Modelling and beyond.
+<br>
+  <br>
+In addition to my academic pursuits, I am also studying a Backend Development course with DevOps, enhancing my programming capabilities. I currently work as a digital media illustrator, where my attention to detail and problem-solving skills shine.
+<br>
+  <br>
+Originally from the Scottish Highlands, I now reside in Huelva, Spain. I'm a resolute and hard-working individual, driven by my motto: "I am not phenomenally skilled, but phenomenally willed," which has been a guiding light through challenging times.
+<br>
+  <br>
+I am eager to join the industry to learn from and collaborate with fellow professionals, with a particular interest in becoming a backend developer. If you're looking for a dedicated and adaptable developer, let's connect!</p>
 <br>
 <b>Languages:</b> English (Native), Norwegian, Japanese (N4) and Spanish (C2).
 <br>
