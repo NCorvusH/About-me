@@ -16,8 +16,6 @@
 <br>
 <b>LinkedIn:</b> https://www.linkedin.com/in/norbert-harrow/
 
-<br>
-
 ###
 
 <div align="center">
