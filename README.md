@@ -12,9 +12,9 @@
   <li>Originally from the Scottish Highlands, now residing in Spain.</li>
 </ul>
 
-Email: NorbertHarrowArt@gmail.com
+<b>Email:</b> NorbertHarrowArt@gmail.com
 <br>
-LinkedIn: https://www.linkedin.com/in/norbert-harrow/
+<b>LinkedIn:</b> https://www.linkedin.com/in/norbert-harrow/
 
 <br>
 <br>
