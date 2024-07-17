@@ -1,14 +1,14 @@
 <h1 align="center"><b>About Me</b></h1>
 
   <h3>Hello, I'm Norbert Harrow, also known as Corvus.</h3>
-  <h4>I am not phenomenally skilled, but phenomenally willed</h4>
+  <h5>"I am not phenomenally skilled, but phenomenally willed"</h5>
 <ul>
-  </li>Skilled in attention to detail and problem-solving.</li>
-  </li>Final year of a Master’s in Game Design and Programming, specializing in Unreal Engine, developing a functional game demo.</li>
-  </li>Studying Backend Development with DevOps, enhancing programming capabilities.</li>
-  </li>Eager to join the industry as a backend developer and collaborate with professionals.</li>
-  </li>Artist since 2012 with a passion for Concept Art, specializing in Fantasy and Medieval aesthetics.</li>
-  </li>Originally from the Scottish Highlands, now residing in Spain.</li>
+  <li>Skilled in attention to detail and problem-solving.</li>
+  <li>Final year of a Master’s in Game Design and Programming, specializing in Unreal Engine, developing a functional game demo.</li>
+  <li>Studying Backend Development with DevOps, enhancing programming capabilities.</li>
+  <li>Eager to join the industry as a backend developer and collaborate with professionals.</li>
+  <li>Artist since 2012 with a passion for Concept Art, specializing in Fantasy and Medieval aesthetics.</li>
+  <li>Originally from the Scottish Highlands, now residing in Spain.</li>
 </ul>
 
 Email: NorbertHarrowArt@gmail.com
