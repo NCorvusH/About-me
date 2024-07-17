@@ -2,6 +2,7 @@
 
   <h3>Hello, I'm Norbert Harrow, also known as Corvus.</h3>
   <h5>"I am not phenomenally skilled, but phenomenally willed"</h5>
+  <br>
 <ul>
   <li>Skilled in attention to detail and problem-solving.</li>
   <li>Final year of a Master’s in Game Design and Programming, specializing in Unreal Engine, developing a functional game demo.</li>
@@ -12,6 +13,7 @@
 </ul>
 
 Email: NorbertHarrowArt@gmail.com
+<br>
 LinkedIn: https://www.linkedin.com/in/norbert-harrow/
 
 <br>
