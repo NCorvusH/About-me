@@ -3,18 +3,20 @@
   <h3>Hello, I'm Norbert Harrow, also known as Corvus.</h3>
   <h5>"I am not phenomenally skilled, but phenomenally willed"</h5>
   <br>
-<ul>
-  <li>Skilled in attention to detail and problem-solving.</li>
-  <li>Final year of a Master’s in Game Design and Programming, specializing in Unreal Engine, developing a functional game demo.</li>
-  <li>Studying Backend Development with DevOps, enhancing programming capabilities.</li>
-  <li>Eager to join the industry as a backend developer and collaborate with professionals.</li>
-  <li>Artist since 2012 with a passion for Concept Art, specializing in Fantasy and Medieval aesthetics.</li>
-  <li>Originally from the Scottish Highlands, now residing in Spain.</li>
-</ul>
-
-<b>Email:</b> NorbertHarrowArt@gmail.com
+<p>
+  Hello, I’m Norbert Harrow, a dedicated Backend Developer with expertise in C++, Python, Java, and frameworks like Spring, Hibernate, and Django. I’m currently completing a Master’s in Game Development and Programming, where I’m honing my system architecture skills and embracing my role as a natural problem solver and pragmatic person. My backend development experience includes building scalable systems with Docker, Kubernetes, and utilizing MySQL and SQL (relational) as well as MongoDB (non-relational) databases.
 <br>
-<b>LinkedIn:</b> https://www.linkedin.com/in/norbert-harrow/
+I adhere to best practices such as SOLID principles, KISS (Keep It Simple, Stupid), and DRY (Don’t Repeat Yourself), ensuring that my code is clean, maintainable, and efficient. My expertise in testing (unit and integration) and CI/CD practices guarantees robust and reliable solutions.
+<br>
+  <br>
+I thrive in dynamic environments and enjoy tackling complex backend challenges, leveraging my diverse skills to collaborate effectively with cross-functional teams as well as working independently.</p>
+<br>
+  <br>
+  <ul>
+<li>📧 Email: NorbertHarrowArt@gmail.com</li>
+
+<li>🔗 LinkedIn: Norbert Harrow</li>
+  </ul>
 
 ###
 
